@@ -9,3 +9,4 @@ imbalanced-learn==0.8.0
 xgboost==2.0.2
 joblib==1.2.0 
 sklearn==1.2.2
+imblearn==0.10.1
