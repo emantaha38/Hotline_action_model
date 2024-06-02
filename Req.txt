@@ -10,3 +10,4 @@ xgboost==2.0.2
 joblib==1.2.0 
 sklearn==1.2.2
 imblearn==0.10.1
+streamlit==1.35.0
